@@ -64,5 +64,5 @@ We may update this Privacy Policy from time to time. Any modifications will be r
 If you have any questions, feedback, or concerns regarding this Privacy Policy or your data, please contact:
 
 **Tshiamo Jantjie**  
-Email: [tshiajan@gmail.com](mailto:tshiajan@gmail.com)  
+Email: [janaire.dev@gmail.com](mailto:janaire.dev@gmail.com)  
 Website: [https://tshiajan.github.io/aeterna-mahjong-privacy/](https://tshiajan.github.io/aeterna-mahjong-privacy/)
